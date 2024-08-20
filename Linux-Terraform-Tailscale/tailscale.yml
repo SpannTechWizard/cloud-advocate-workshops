@@ -1,3 +1,0 @@
-#cloud-config
-runcmd:
-  - echo 'Hello, World!' > /var/tmp/hello-world.txt

@@ -1,4 +1,0 @@
-//Data Sampling example from Part 7
-
-OfficeActivity
-| take 10

@@ -1,4 +1,0 @@
-//From Part 5, the getschema operator
-
-OfficeActivity
-| getschema
