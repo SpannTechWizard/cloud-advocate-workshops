@@ -20,7 +20,6 @@ A separate set of workshops authored for the student/education audience by the N
 | Azure Kubernetes Service with ARM64 node pools and Terraform | https://github.com/Azure-Samples/azure-opensource-labs/blob/main/cloud-native/aks-arm64-terraform |
 | Azure Kubernetes Service with Open Service Mesh | https://github.com/Azure-Samples/azure-opensource-labs/blob/main/cloud-native/aks-open-service-mesh |
 | Azure Kubernetes Service with Open Service Mesh and Terraform | https://github.com/Azure-Samples/azure-opensource-labs/blob/main/cloud-native/aks-open-service-mesh-terraform |
-| Azure Spring Apps Training | https://github.com/microsoft/cloud-advocate-workshops/tree/main/Azure-Spring-Apps-Training |
 | Azure Spring Apps Training | https://github.com/microsoft/azure-spring-apps-training |
 | Build, deploy and audit a serverless PWA with Azure Static Web Apps | https://github.com/microsoft/moaw/tree/main/workshops/swa-pwa-angular |
 | Build Productivity Apps by using Microsoft Graph Toolkit | https://microsoft.github.io/MicrosoftCloud/tutorials/docs/Build-Productivity-Apps-By-Using-Microsoft-Graph-Toolkit/ |
