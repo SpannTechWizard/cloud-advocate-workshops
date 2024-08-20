@@ -1,6 +1,6 @@
 # Optimizing Virtual Machine Workloads on Azure.
 
-In this workshop you’re going to learn about Azure’s IaaS VM supporting technologies so that you can get the most out of your migrated and new IaaS VM workloads. You’ll learn how to apply each technology to your IaaS VMs through practical hands on steps, when and why you should implement these technologies, and tips and tricks on how you can get the most out of running migrated and new IaaS VM workloads in Azure.
+In this workshop you’re going to learn about Azure’s IaaS VM supporting technologies so that you can get the most out of your migrated and new IaaS VM workloads. You’ll learn how to apply each technology to your IaaS VMs through practical hands on steps, when and why you should implement these technologies, and tips and tricks on how you can get the most out of running migrated and new IaaS VM workloads in Azure. This workshop is designed to run in the skillable environment. 
 
 ## Section Zero: Lab Deployment
 
