@@ -1,6 +1,6 @@
 # gMSA on Azure Kubernetes Service workshop
 
-Welcome to the gMSA on Azure Kubernetes Service workshop. This workshop was designed to provide customers an understanding of how gMSA can be deployed into AKS, how it works, and what are the necessary steps to get it configured.
+Welcome to the gMSA (group managed service account) on Azure Kubernetes Service workshop. This workshop was designed to provide customers an understanding of how gMSA can be deployed into AKS, how it works, and what are the necessary steps to get it configured.
 
 ## About gMSA, Windows containers, and Azure Kubernetes Service
 
