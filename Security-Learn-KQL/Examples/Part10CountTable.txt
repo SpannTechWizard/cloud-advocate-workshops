@@ -1,4 +1,0 @@
-//From Part 10 of the Must Learn KQL series showing the number of rows of data in the SecurityEvent table.
-
-SecurityEvent //the table
-| count //shows number of rows in the table
