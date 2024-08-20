@@ -6,7 +6,7 @@ A workshop usually involves a set of practical exercises and supporting material
 
 A separate set of workshops authored for the student/education audience by the Next Gen Advocacy Team can be located in the following repo https://github.com/microsoft/workshop-library
 
-# Cloud Advocate Workshop List
+The following is a list of other workshops authored by Cloud Advocates:
 
 | Name | Source Repo | 
 | -------- | -------- |
